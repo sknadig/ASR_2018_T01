@@ -110,6 +110,7 @@ def _preprocess_data(args):
                 labels.append(trans[index])
         mfcc_features.extend(mfcc_feats)
         mfcc_labels.extend(labels)
+    #Possibly separate features phone-wise and dump them? (np.where() could be used)
     timit_df = pd.DataFrame()
     timit_df["features"] = mfcc_features
     timit_df["labels"] = mfcc_labels
