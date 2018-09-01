@@ -15,6 +15,7 @@ If you have already converted the files, set ```--preprocessed=True``` to skip t
     - [http://scikit-learn.org/stable/index.html](http://scikit-learn.org/stable/index.html)
     - [http://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html](http://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html)
     - [http://www.pitt.edu/~naraehan/python2/pickling.html](http://www.pitt.edu/~naraehan/python2/pickling.html)
+    - [https://github.com/belambert/asr-evaluation](https://github.com/belambert/asr-evaluation)
 ## This repo contains
 - [x] Code to read files and compute MFCC features
 - [x] Computing MFCC for time slices given in .PHN files
