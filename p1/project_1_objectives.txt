@@ -1,7 +1,7 @@
 Submission deadline: 23:59 Sep 30th 2018
 For submission, upload a txt file on LMS with a link to your github repository
 Example sumbission format: https://github.com/sknadig/ASR_2018_T01
-
+README: 
 Project 1 Objectives:
 
 A. To train GMM for a given phoneset (40 classes) in the database provided
